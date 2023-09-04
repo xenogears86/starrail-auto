@@ -1,7 +1,7 @@
 const config = {
 	COOKIES: [
 		{
-			uid: 123, // Your in-game UID
+			uid: 824887664, // Your in-game UID
 			cookie: "",
 			threshold: 170 // Stamina threshold to send notification
 		},
